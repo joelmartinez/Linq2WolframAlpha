@@ -1,0 +1,4 @@
+This is a project which grew out of a funny twitter conversation on what a
+star trek computer's code would look like. After looking at the state of the 
+"api wrapper" provided by wolfram, I decided to try my hand at making a custom
+linq provider
