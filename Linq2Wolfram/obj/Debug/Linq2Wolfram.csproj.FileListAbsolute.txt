@@ -1,0 +1,5 @@
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\Linq2Wolfram\bin\Debug\Linq2Wolfram.dll
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\Linq2Wolfram\bin\Debug\Linq2Wolfram.pdb
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\Linq2Wolfram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\Linq2Wolfram\obj\Debug\Linq2Wolfram.dll
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\Linq2Wolfram\obj\Debug\Linq2Wolfram.pdb

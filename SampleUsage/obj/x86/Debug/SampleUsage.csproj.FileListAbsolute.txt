@@ -1,0 +1,8 @@
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\bin\Debug\SampleUsage.exe.config
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\bin\Debug\SampleUsage.exe
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\bin\Debug\SampleUsage.pdb
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\bin\Debug\Linq2Wolfram.dll
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\bin\Debug\Linq2Wolfram.pdb
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\obj\x86\Debug\SampleUsage.exe
+C:\Users\martinjo\dev\gemtfs\Core Services\Research\Linq2Wolfram\SampleUsage\obj\x86\Debug\SampleUsage.pdb
