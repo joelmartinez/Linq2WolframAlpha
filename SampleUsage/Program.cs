@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Linq2Wolfram;
 
 namespace SampleUsage
@@ -14,12 +12,12 @@ namespace SampleUsage
             string appid = "1234";
             var query = new WolframAlphaContext(appid)
                 .Knowledge
-                .Where(k => k.input == "population of florida");
+                .Where(k => k.input == "population of florida" && k.appid == "1234");
 
-            foreach (var r in query) 
+            foreach (var r in query)
             {
                 Console.WriteLine(r.url);
             }
-                    }
+        }
     }
 }

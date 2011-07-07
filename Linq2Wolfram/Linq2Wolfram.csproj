@@ -72,8 +72,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="WolframAlphaContext.cs" />
+    <Compile Include="Expressions\ExpressionVisitor.cs" />
+    <Compile Include="Expressions\Query.cs" />
+    <Compile Include="Expressions\QueryProvider.cs" />
+    <Compile Include="Expressions\TypeSystem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WolframExpressionVisitor.cs" />
+    <Compile Include="WolframQueryProvider.cs" />
+    <Compile Include="WolframResult.cs" />
+    <Compile Include="WolframResults.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
